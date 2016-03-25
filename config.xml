@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.distance.moodle.uew.edu.gh"
         versionCode = "391"
         version   = "1.15">
-    <name>Moodle Mobile</name>
+    <name>UEW Distance App</name>
 
     <description>
-        Moodle Mobile official app
+        Mobile App for UEW Distance Education
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://its.uew.edu.gh" email="ndonkor@uew.edu.gh">
+        Nicholas Donkor
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
